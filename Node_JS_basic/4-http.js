@@ -1,4 +1,4 @@
-const http = require ('http');
+const http = require('http');
 const appPort = 1245;
 
 // Create a local app to receive data from
